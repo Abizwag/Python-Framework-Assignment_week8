@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+streamlit
+wordcloud
+
+py cord19_analysis.py
+py -m streamlit run streamlit_app.py
